@@ -6,7 +6,13 @@
 <img align=center src="./naughtylust.png">
 </p>
 <p align=center>Some very helpful nautilus scripts made with &#x2765;</p>
+<p align=center>
+  
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.NaughtyLust" alt="Visitors">
+  
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/deep5050/NaughtyLust?style=for-the-badge"></img>                                                           
 
+</p>
 
 </div>
 
@@ -19,7 +25,7 @@
 
 ## Scripts Categories
 ### Application
-1. **open-with-vscode** : Allow directories / files to be open in VScode :)
+1. **open-with-vscode** : Open directories/files in VScode :)
 
 ### Arrange
 1. **arrange-by-file-extensions**: Aggregate files based on their extensions in separate directories
