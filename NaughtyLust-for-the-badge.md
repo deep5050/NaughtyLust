@@ -5,51 +5,51 @@ This is an auto-generated file
 
 | Syntax    |    Badge  |
 | :---      |  :----:  |
-| `[![License](https://img.shields.io/github/license/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![License](https://img.shields.io/github/license/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
+| `<img alt="License" src="https://img.shields.io/github/license/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="License" src="https://img.shields.io/github/license/deep5050/NaughtyLust?style=for-the-badge"></img>|
 ## Social Badges
 
 | Syntax    |    Badge  |
 | :---      |  :----:  |
-| `[![Followers](https://img.shields.io/github/followers/deep5050?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Followers](https://img.shields.io/github/followers/deep5050?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
-| `[![Forks](https://img.shields.io/github/forks/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Forks](https://img.shields.io/github/forks/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
-| `[![Stars](https://img.shields.io/github/stars/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Stars](https://img.shields.io/github/stars/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
-| `[![Watchers](https://img.shields.io/github/watchers/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Watchers](https://img.shields.io/github/watchers/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
+| `<img alt="Followers" src="https://img.shields.io/github/followers/deep5050?style=for-the-badge"></img>` | <img alt="Followers" src="https://img.shields.io/github/followers/deep5050?style=for-the-badge"></img>|
+| `<img alt="Forks" src="https://img.shields.io/github/forks/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Forks" src="https://img.shields.io/github/forks/deep5050/NaughtyLust?style=for-the-badge"></img>|
+| `<img alt="Stars" src="https://img.shields.io/github/stars/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Stars" src="https://img.shields.io/github/stars/deep5050/NaughtyLust?style=for-the-badge"></img>|
+| `<img alt="Watchers" src="https://img.shields.io/github/watchers/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Watchers" src="https://img.shields.io/github/watchers/deep5050/NaughtyLust?style=for-the-badge"></img>|
 ## Size Badges
 
 | Syntax    |    Badge  |
 | :---      |  :----:  |
-| `[![Repo Size](https://img.shields.io/github/repo-size/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Repo Size](https://img.shields.io/github/repo-size/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
+| `<img alt="Repo Size" src="https://img.shields.io/github/repo-size/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Repo Size" src="https://img.shields.io/github/repo-size/deep5050/NaughtyLust?style=for-the-badge"></img>|
 ## Issues Badges
 
 | Syntax    |    Badge  |
 | :---      |  :----:  |
-| `[![Github Isuues](https://img.shields.io/github/issues-raw/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Github Isuues](https://img.shields.io/github/issues-raw/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
-| `[![Github closed Isuues](https://img.shields.io/github/issues-closed/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Github closed Isuues](https://img.shields.io/github/issues-closed/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
-| `[![Github open PRs](https://img.shields.io/github/issues-pr-raw/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Github open PRs](https://img.shields.io/github/issues-pr-raw/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
-| `[![Github closed PRs](https://img.shields.io/github/issues-pr-closed/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Github closed PRs](https://img.shields.io/github/issues-pr-closed/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
+| `<img alt="Github Isuues" src="https://img.shields.io/github/issues-raw/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Github Isuues" src="https://img.shields.io/github/issues-raw/deep5050/NaughtyLust?style=for-the-badge"></img>|
+| `<img alt="Github closed Isuues" src="https://img.shields.io/github/issues-closed/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Github closed Isuues" src="https://img.shields.io/github/issues-closed/deep5050/NaughtyLust?style=for-the-badge"></img>|
+| `<img alt="Github open PRs" src="https://img.shields.io/github/issues-pr-raw/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Github open PRs" src="https://img.shields.io/github/issues-pr-raw/deep5050/NaughtyLust?style=for-the-badge"></img>|
+| `<img alt="Github closed PRs" src="https://img.shields.io/github/issues-pr-closed/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Github closed PRs" src="https://img.shields.io/github/issues-pr-closed/deep5050/NaughtyLust?style=for-the-badge"></img>|
 ## Analysis Badges
 
 | Syntax    |    Badge  |
 | :---      |  :----:  |
-| `[![Language Count](https://img.shields.io/github/languages/count/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Language Count](https://img.shields.io/github/languages/count/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
-| `[![Top Language](https://img.shields.io/github/languages/top/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Top Language](https://img.shields.io/github/languages/top/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
+| `<img alt="Language Count" src="https://img.shields.io/github/languages/count/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Language Count" src="https://img.shields.io/github/languages/count/deep5050/NaughtyLust?style=for-the-badge"></img>|
+| `<img alt="Top Language" src="https://img.shields.io/github/languages/top/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Top Language" src="https://img.shields.io/github/languages/top/deep5050/NaughtyLust?style=for-the-badge"></img>|
 ## Activity Badges
 
 | Syntax    |    Badge  |
 | :---      |  :----:  |
-| `[![Commits/month](https://img.shields.io/github/commit-activity/m/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Commits/month](https://img.shields.io/github/commit-activity/m/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
-| `[![Last Commit](https://img.shields.io/github/last-commit/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Last Commit](https://img.shields.io/github/last-commit/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
-| `[![Last release date](https://img.shields.io/github/release-date/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Last release date](https://img.shields.io/github/release-date/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
-| `[![Contributors](https://img.shields.io/github/contributors/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Contributors](https://img.shields.io/github/contributors/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
+| `<img alt="Commits/month" src="https://img.shields.io/github/commit-activity/m/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Commits/month" src="https://img.shields.io/github/commit-activity/m/deep5050/NaughtyLust?style=for-the-badge"></img>|
+| `<img alt="Last Commit" src="https://img.shields.io/github/last-commit/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Last Commit" src="https://img.shields.io/github/last-commit/deep5050/NaughtyLust?style=for-the-badge"></img>|
+| `<img alt="Last release date" src="https://img.shields.io/github/release-date/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Last release date" src="https://img.shields.io/github/release-date/deep5050/NaughtyLust?style=for-the-badge"></img>|
+| `<img alt="Contributors" src="https://img.shields.io/github/contributors/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Contributors" src="https://img.shields.io/github/contributors/deep5050/NaughtyLust?style=for-the-badge"></img>|
 ## Version Badges
 
 | Syntax    |    Badge  |
 | :---      |  :----:  |
-| `[![Release Version](https://img.shields.io/github/v/release/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Release Version](https://img.shields.io/github/v/release/deep5050/NaughtyLust?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
+| `<img alt="Release Version" src="https://img.shields.io/github/v/release/deep5050/NaughtyLust?style=for-the-badge"></img>` | <img alt="Release Version" src="https://img.shields.io/github/v/release/deep5050/NaughtyLust?style=for-the-badge"></img>|
 ## CI/CD Badges
 
 ## Other Badges
 
 | Syntax    |    Badge  |
 | :---      |  :----:  |
-| `[![Hit Count](http://hits.dwyl.com/deep5050/NaughtyLust.svg?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)` | [![Hit Count](http://hits.dwyl.com/deep5050/NaughtyLust.svg?style=for-the-badge)](https://github.com/deep5050/NaughtyLust)|
+| `<img alt="Hit Count" src="http://hits.dwyl.com/deep5050/NaughtyLust.svg?style=for-the-badge"></img>` | <img alt="Hit Count" src="http://hits.dwyl.com/deep5050/NaughtyLust.svg?style=for-the-badge"></img>|
