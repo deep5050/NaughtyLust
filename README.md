@@ -62,7 +62,7 @@
 ![screenshot-demo](./demo.png)
 
 ## Prerequisites
-In order to run the scripts you should have installed **python3** under /usr/bin/python3
+In order to run the scripts you should have installed **python3** under `/usr/bin/`
 
 
 ## Installing
