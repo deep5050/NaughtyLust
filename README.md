@@ -7,9 +7,9 @@
 </p>
 <p align=center>Some very helpful nautilus scripts made with &#x2765;</p>
 <p align=center>
-  
+
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.NaughtyLust" alt="Visitors">
-  
+
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/deep5050/NaughtyLust?style=for-the-badge"></img>
 
 </p>
