@@ -60,6 +60,7 @@
 
 ## Screenshot
 ![screenshot-demo](./demo.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeep5050%2FNaughtyLust.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeep5050%2FNaughtyLust?ref=badge_shield)
 
 ## Prerequisites
 In order to run the scripts you should have installed **python3** under `/usr/bin/`
@@ -91,3 +92,6 @@ See the [LICENSE](LICENSE) file for more details.
 
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdeep5050%2FNaughtyLust.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdeep5050%2FNaughtyLust?ref=badge_large)
