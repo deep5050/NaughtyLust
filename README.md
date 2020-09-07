@@ -24,6 +24,7 @@
 2. Notification Enabled
 3. Easy Installation
 
+## [TODO](https://github.com/deep5050/NaughtyLust/projects/1#column-10731729)
 
 ## Scripts Categories
 ### Application
@@ -40,7 +41,7 @@
 3. **copy-text-content**: Copy content of a text file to the clipboard
 
 ### Customization
-1. **est-as-lockscreen**: Set an image as lockscreen (Gnome)
+1. **set-as-lockscreen**: Set an image as lockscreen (GNOME)
 2. **set-terminal-color-scheme**: Generate color pallettes from an image and set as terminal color scheme
 
 ### Git
