@@ -13,6 +13,7 @@
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/deep5050/NaughtyLust?style=for-the-badge"></img>    
   <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/deep5050/NaughtyLust/total?style=for-the-badge">
 </p>
+
 </p>
 
 </div>
@@ -87,7 +88,7 @@ See the [changelog](CHANGELOG.md) file
 
 See the [LICENSE](LICENSE) file for more details.
 
-
+[see it on Pling](https://www.pling.com/p/1419682/)
 
 
 
