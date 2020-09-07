@@ -9,9 +9,10 @@
 <p align=center>
   
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=deep5050.NaughtyLust" alt="Visitors">
-  
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/deep5050/NaughtyLust?style=for-the-badge"></img>                                                           
-
+  <p align=center>
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/deep5050/NaughtyLust?style=for-the-badge"></img>    
+  <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/deep5050/NaughtyLust/total?style=for-the-badge">
+</p>
 </p>
 
 </div>
