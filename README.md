@@ -18,6 +18,13 @@
 
 </div>
 
+
+## Install
+
+1. Download the latest release or clone this repo.
+2. Run the install.sh script
+3. Done!
+
 ## Features
 
 1. Exception Handled
